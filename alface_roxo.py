@@ -10,3 +10,14 @@ Versão: 1.0
 
 import sys
 import os
+
+
+
+
+print("oque é uma docstring no python? pra que serve?\n")
+
+print("Resposta:")
+      
+print('''Em python é uma string delimitada com três aspas simples ou duplas.
+Serve para explicar código, função, classes e módulos, fornecendo informações sobre o propósito, resumo e descrição
+facilitando o entendimento, compreensão e legibilidade do código. Em resumo é uma documentação em formato de string.''')
